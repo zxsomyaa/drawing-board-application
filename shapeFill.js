@@ -1,6 +1,6 @@
 function ShapeFillTool() {
   this.name = "shapeFillTool";
-  this.icon = "assets/shapeFill.jpg";
+  this.icon = "shapeFill.jpg";
   this.shapeSelector = null;
   this.colorPicker = null;
   this.startX = null;
