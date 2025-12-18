@@ -1,7 +1,7 @@
 function textTool() {
 
     this.name = "textTool";
-    this.icon = "assets/textTool.jpg";
+    this.icon = "textTool.jpg";
 
     var self = this;
 
