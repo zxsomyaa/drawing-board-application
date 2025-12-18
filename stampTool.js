@@ -1,7 +1,7 @@
 function stampTool() {
 
 	this.name = "stampTool";
-	this.icon = "assets/stampTool.jpg";
+	this.icon = "stampTool.jpg";
 
 	// this changes in the javascript click handler. So storing it as
 	// a variable self now means we can still access it in the handler
