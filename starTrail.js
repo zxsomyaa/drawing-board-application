@@ -6,9 +6,9 @@ function StarTool() {
   var numberOfStars = 5;
   var starImage = null;
   var starImages = {
-    default: "assets/star.png",
-    bright: "assets/bright_star.png",
-    dark: "assets/dark_star.png"
+    default: "star.png",
+    bright: "bright_star.png",
+    dark: "dark_star.png"
   };
 
   // Preload the default star image
