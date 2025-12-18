@@ -36,19 +36,19 @@ This project was developed as part of a graphics programming coursework and demo
    git clone https://github.com/zxsomyaa/drawing-board-application.git
 
 ## 🎯 Learning Outcomes
-- **Designed modular drawing tools using object-oriented JavaScript
-	•	Applied real-time rendering techniques using p5.js
-	•	Managed mouse and keyboard interactions for canvas-based applications
-	•	Structured a scalable graphics application with reusable components
-	•	Improved understanding of interactive UI design and user experience
+- **    Designed modular drawing tools using object-oriented JavaScript
+- **	Applied real-time rendering techniques using p5.js
+- **	Managed mouse and keyboard interactions for canvas-based applications
+- **	Structured a scalable graphics application with reusable components
+- **	Improved understanding of interactive UI design and user experience
 
 ## 🔮 Future Enhancements
-- **Color palette customization
-	•	Adjustable brush sizes and opacity
-	•	Undo/redo functionality
-	•	Layer-based drawing system
-	•	Touch support for mobile devices
+- **    Color palette customization
+- **	Adjustable brush sizes and opacity
+- **	Undo/redo functionality
+- **	Layer-based drawing system
+- **	Touch support for mobile devices
 
-   📫 Contact
-	•	GitHub: https://github.com/zxsomyaa
-	•	LinkedIn: https://www.linkedin.com/in/somya-mehta-53973a280/
+##   📫 Contact
+- **	GitHub: https://github.com/zxsomyaa
+- **	LinkedIn: https://www.linkedin.com/in/somya-mehta-53973a280/
