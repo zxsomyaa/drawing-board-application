@@ -1,7 +1,7 @@
 
 function LineToTool(){
 	
-	this.icon = "assets/lineTool.jpg";
+	this.icon = "lineTool.jpg";
 	this.name = "LineTo";
 	var startMouseX = -1;
 	var startMouseY = -1;
