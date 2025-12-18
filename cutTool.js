@@ -1,5 +1,5 @@
 function CutTool() {
-    this.icon = "assets/cutTool.jpg";
+    this.icon = "cutTool.jpg";
     this.name = "CutTool";
 
     // Cutting Mode
