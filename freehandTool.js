@@ -1,7 +1,7 @@
 function FreehandTool(){
 
 	// set an icon and a name for the object
-	this.icon = "assets/pencilTool.jpg";
+	this.icon = "pencilTool.jpg";
 	this.name = "freehand";
 	var previousMouseX = -1;
 	var previousMouseY = -1;
