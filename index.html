@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Drawing App</title>
+  <script src="lib/p5.min.js"></script>
+  <script src="lib/p5.dom.js"></script>
+
+
+  <script src="tools/starTrail.js"></script>    
+  <script src="toolbox.js"></script>
+  <script src="colourPalette.js"></script>
+  <script src="helperFunctions.js"></script>
+
+  <script src="tools/freehandTool.js"></script>
+  <script src="tools/lineToTool.js"></script>
+  <script src="tools/sprayCanTool.js"></script>
+  <script src="tools/mirrorDrawTool.js"></script>
+  <script src="tools/stampTool.js"></script>
+  <script src="tools/eraserTool.js"></script>
+  <script src="tools/cutTool.js"></script>
+  <script src="tools/shapeFill.js"></script>
+  <script src="tools/textTool.js"></script> 
+
+  <!-- Main sketch script that initializes everything -->
+  <script src="sketch.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<div class="wrapper">
+  <div class="box header">
+    <button id="clearButton" class="top-button">Clear</button>
+    <button id="saveImageButton" class="top-button">Save Image</button>
+    <h1>My Drawing App</h1>
+  </div>
+
+  <div class="box" id="sidebar"></div>
+  <div id="content"></div>
+
+  <div class="box colourPalette"></div>
+  <div class="box options" id="toolsOptions"></div>
+
+  <!-- Star Tool Sliders -->
+  <div class="sliderContainer" id="SizeOfStarControl" style="display: none;">
+    <div class="sliderLabel">Star Size</div>
+  </div>
+  <div class="sliderContainer" id="numberOfStarsControl" style="display: none;">
+    <div class="sliderLabel">Number of Stars</div>
+  </div>
+</div>
+
+</body>
+</html>
+
