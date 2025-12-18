@@ -1,5 +1,5 @@
 function StarTool() {
-  this.icon = "assets/star.png"; // Default star icon
+  this.icon = "star.png"; // Default star icon
   this.name = "starTool";
 
   var starSize = 20;
