@@ -1,7 +1,7 @@
 function SprayCanTool(){
 	
 	this.name = "sprayCanTool";
-	this.icon = "assets/sprayTool.jpg";
+	this.icon = "sprayTool.jpg";
 	var points = 13;
 	var spread = 10;
 	var dropletsThickness = 1;
